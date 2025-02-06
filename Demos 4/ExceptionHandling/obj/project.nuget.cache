@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpFz6JyvwdRzLZNnDbo27RH/Me1h5Zr9LZHTs82zBqBl7pts/XcPmff6S6lEWr6eG1AkGSf8tRRMgEFtkNE3OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\ExceptionHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\serilog.sinks.seq\\9.0.0\\serilog.sinks.seq.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\bin\Debug\net6.0\ITI.OOPs.Models.deps.json
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\bin\Debug\net6.0\ITI.OOPs.Models.dll
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\bin\Debug\net6.0\ITI.OOPs.Models.pdb
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\obj\Debug\net6.0\ITI.OOPs.Models.csproj.AssemblyReference.cache
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\obj\Debug\net6.0\ITI.OOPs.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\obj\Debug\net6.0\ITI.OOPs.Models.AssemblyInfoInputs.cache
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\obj\Debug\net6.0\ITI.OOPs.Models.AssemblyInfo.cs
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\obj\Debug\net6.0\ITI.OOPs.Models.csproj.CoreCompileInputs.cache
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\obj\Debug\net6.0\ITI.OOPs.Models.dll
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\obj\Debug\net6.0\refint\ITI.OOPs.Models.dll
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\obj\Debug\net6.0\ITI.OOPs.Models.pdb
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Models\obj\Debug\net6.0\ref\ITI.OOPs.Models.dll

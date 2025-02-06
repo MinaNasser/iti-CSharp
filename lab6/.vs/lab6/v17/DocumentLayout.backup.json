@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D06\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE64F55-36A5-473E-8BD6-E8C65ECF90B1}|lab6\\lab6.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d06\\lab6\\lab6\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE64F55-36A5-473E-8BD6-E8C65ECF90B1}|lab6\\lab6.csproj|solutionrelative:lab6\\filehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE64F55-36A5-473E-8BD6-E8C65ECF90B1}|lab6\\lab6.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d06\\lab6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE64F55-36A5-473E-8BD6-E8C65ECF90B1}|lab6\\lab6.csproj|solutionrelative:lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE64F55-36A5-473E-8BD6-E8C65ECF90B1}|lab6\\lab6.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d06\\lab6\\lab6\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE64F55-36A5-473E-8BD6-E8C65ECF90B1}|lab6\\lab6.csproj|solutionrelative:lab6\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE64F55-36A5-473E-8BD6-E8C65ECF90B1}|lab6\\lab6.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d06\\lab6\\lab6\\sesconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE64F55-36A5-473E-8BD6-E8C65ECF90B1}|lab6\\lab6.csproj|solutionrelative:lab6\\sesconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileHandler.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D06\\lab6\\lab6\\FileHandler.cs",
+              "RelativeDocumentMoniker": "lab6\\FileHandler.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D06\\lab6\\lab6\\FileHandler.cs",
+              "RelativeToolTip": "lab6\\FileHandler.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAD4v2oAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:31:23.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SESConnection.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D06\\lab6\\lab6\\SESConnection.cs",
+              "RelativeDocumentMoniker": "lab6\\SESConnection.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D06\\lab6\\lab6\\SESConnection.cs",
+              "RelativeToolTip": "lab6\\SESConnection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:56:37.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D06\\lab6\\lab6\\Utils.cs",
+              "RelativeDocumentMoniker": "lab6\\Utils.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D06\\lab6\\lab6\\Utils.cs",
+              "RelativeToolTip": "lab6\\Utils.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:32:32.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D06\\lab6\\lab6\\Program.cs",
+              "RelativeDocumentMoniker": "lab6\\Program.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D06\\lab6\\lab6\\Program.cs",
+              "RelativeToolTip": "lab6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:31:42.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D03\\lab3\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F86DA18-B8F3-4FE5-84A3-09BED252F53C}|lab3\\lab3.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d03\\lab3\\solution1\\lab3\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F86DA18-B8F3-4FE5-84A3-09BED252F53C}|lab3\\lab3.csproj|solutionrelative:lab3\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F86DA18-B8F3-4FE5-84A3-09BED252F53C}|lab3\\lab3.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d03\\lab3\\solution1\\lab3\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F86DA18-B8F3-4FE5-84A3-09BED252F53C}|lab3\\lab3.csproj|solutionrelative:lab3\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F86DA18-B8F3-4FE5-84A3-09BED252F53C}|lab3\\lab3.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d03\\lab3\\solution1\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F86DA18-B8F3-4FE5-84A3-09BED252F53C}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D03\\lab3\\Solution1\\lab3\\Utils.cs",
+              "RelativeDocumentMoniker": "lab3\\Utils.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D03\\lab3\\Solution1\\lab3\\Utils.cs",
+              "RelativeToolTip": "lab3\\Utils.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:29:35.971Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D03\\lab3\\Solution1\\lab3\\Test.cs",
+              "RelativeDocumentMoniker": "lab3\\Test.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D03\\lab3\\Solution1\\lab3\\Test.cs",
+              "RelativeToolTip": "lab3\\Test.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwBEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:40:01.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D03\\lab3\\Solution1\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D03\\lab3\\Solution1\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:29:02.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

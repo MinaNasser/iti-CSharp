@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Presentation\\ITI.OOPs.Presentation.csproj": {}
+  },
+  "projects": {
+    "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Managers\\ITI.OOPs.Managers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Managers\\ITI.OOPs.Managers.csproj",
+        "projectName": "ITI.OOPs.Managers",
+        "projectPath": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Managers\\ITI.OOPs.Managers.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Managers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Models\\ITI.OOPs.Models.csproj": {
+                "projectPath": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Models\\ITI.OOPs.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Models\\ITI.OOPs.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Models\\ITI.OOPs.Models.csproj",
+        "projectName": "ITI.OOPs.Models",
+        "projectPath": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Models\\ITI.OOPs.Models.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Presentation\\ITI.OOPs.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Presentation\\ITI.OOPs.Presentation.csproj",
+        "projectName": "ITI.OOPs.Presentation",
+        "projectPath": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Presentation\\ITI.OOPs.Presentation.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Managers\\ITI.OOPs.Managers.csproj": {
+                "projectPath": "D:\\ITI\\Courses\\C#\\Days\\Day2\\Demos\\ITI.OOPs.Models\\ITI.OOPs.Managers\\ITI.OOPs.Managers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

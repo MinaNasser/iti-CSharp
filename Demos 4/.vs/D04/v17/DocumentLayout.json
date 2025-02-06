@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\New folder\\D04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\pc\\downloads\\new folder\\d04\\exceptionhandling\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\pc\\downloads\\new folder\\d04\\exceptionhandling\\inmemorystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\inmemorystorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\pc\\downloads\\new folder\\d04\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\pc\\downloads\\new folder\\d04\\exceptionhandling\\seqbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\seqbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\pc\\downloads\\new folder\\d04\\exceptionhandling\\logcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\logcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\pc\\downloads\\new folder\\d04\\exceptionhandling\\useroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\useroption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|c:\\users\\pc\\downloads\\new folder\\d04\\exceptionhandling\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15891CC6-B242-4C69-AB46-FD2FB1871E17}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryStorage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\InMemoryStorage.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\InMemoryStorage.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\InMemoryStorage.cs",
+              "RelativeToolTip": "ExceptionHandling\\InMemoryStorage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T09:35:10.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogCategory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\LogCategory.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\LogCategory.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\LogCategory.cs",
+              "RelativeToolTip": "ExceptionHandling\\LogCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:59:18.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SEQBootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\SEQBootstrapper.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\SEQBootstrapper.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\SEQBootstrapper.cs",
+              "RelativeToolTip": "ExceptionHandling\\SEQBootstrapper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:56:35.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Number.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs",
+              "ToolTip": "C:\\Users\\PC\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2a21bfeca166d71cf96f1c97aee9bc92ca27a2467932131bcbfb6a7cc0d36412\\Number.cs [Read Only]",
+              "ViewState": "AQIAAEoXAAAAAAAAAAApwFIXAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:09:18.052Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserOption.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\UserOption.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\UserOption.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\UserOption.cs",
+              "RelativeToolTip": "ExceptionHandling\\UserOption.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:02:48.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\App.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\App.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\App.cs*",
+              "RelativeToolTip": "ExceptionHandling\\App.cs*",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:01:59.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\Employee.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Employee.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\Employee.cs",
+              "RelativeToolTip": "ExceptionHandling\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:01:21.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder\\D04\\ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "ExceptionHandling\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:47:07.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\work\1-material\14 - C#\Demos\test\bin\Debug\net8.0\test.exe
+D:\work\1-material\14 - C#\Demos\test\bin\Debug\net8.0\test.deps.json
+D:\work\1-material\14 - C#\Demos\test\bin\Debug\net8.0\test.runtimeconfig.json
+D:\work\1-material\14 - C#\Demos\test\bin\Debug\net8.0\test.dll
+D:\work\1-material\14 - C#\Demos\test\bin\Debug\net8.0\test.pdb
+D:\work\1-material\14 - C#\Demos\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\1-material\14 - C#\Demos\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+D:\work\1-material\14 - C#\Demos\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+D:\work\1-material\14 - C#\Demos\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+D:\work\1-material\14 - C#\Demos\test\obj\Debug\net8.0\test.dll
+D:\work\1-material\14 - C#\Demos\test\obj\Debug\net8.0\refint\test.dll
+D:\work\1-material\14 - C#\Demos\test\obj\Debug\net8.0\test.pdb
+D:\work\1-material\14 - C#\Demos\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+D:\work\1-material\14 - C#\Demos\test\obj\Debug\net8.0\ref\test.dll
