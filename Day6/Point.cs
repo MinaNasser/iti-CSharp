@@ -151,6 +151,8 @@ namespace Day6
 
             Point R =obj as Point;
             if(R == null)  return false;
+            if(this.GetType() != R.GetType()) return false;
+            if(object.ReferenceEquals(this, R)) return true;
             return X == R.X && Y == R.Y;
             
         }
