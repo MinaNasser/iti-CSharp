@@ -27,12 +27,19 @@
             {
                 Console.WriteLine("P1 != P4 ");
             }
+            /*
+             
+                System.Object Memmbers 
+                ref
+                public virtual bool Equlas(Object O){}
+                public static bool Equlas(Object O1 , Object o2){
+                    return O1.Equlas(o2)
+                }
 
-
-
-
-
-
+                value
+                public static bool ReferenceEqulas(Object O1 , Object o2)
+             
+             */
 
         }
     }
