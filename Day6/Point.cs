@@ -121,5 +121,10 @@ namespace Day6
                 Y = this.X
             };
         }
+        public override bool Equals(object? obj)
+        {
+            Point R = (Point)obj;
+            return  X==R.X && Y==R.Y;
+        }
     }
 }
