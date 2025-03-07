@@ -115,16 +115,44 @@ namespace Day6
         }
         public object Clone()
         {
-            return new Point() {
+            return new Point()
+            {
 
                 X = this.X,
                 Y = this.X
             };
         }
+        // 
+        /// <summary>
+        /// Save Casting  
+        /// is 
+        /// </summary>
+        /// <param name="obj"></param>
+        /// <returns></returns>
+        //public override bool Equals(object? obj)
+        //{
+        //    Point R = (Point)obj;
+        //    return  X==R.X && Y==R.Y;
+        //}
+        //public override bool Equals(object? obj)
+        //{
+        //    // is return true if Obj can be safely casted to Point,  
+        //    // return false (No Exception will be thrown) if casting will Fail
+
+        //    if ((obj is Point R))
+
+        //        return X == R.X && Y == R.Y;
+        //    return false;
+        //}
+
         public override bool Equals(object? obj)
         {
-            Point R = (Point)obj;
-            return  X==R.X && Y==R.Y;
+            // As return  Null  if  casted to Point,  (No Exception will be thrown) if casting will Fail
+
+            Point R =obj as Point;
+            if(R == null)  return false;
+            return X == R.X && Y == R.Y;
+            
         }
     }
 }
