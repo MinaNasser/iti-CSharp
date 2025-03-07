@@ -56,29 +56,43 @@
             //} 
             #endregion
 
-            Parent parent = new Parent(3, 4);
+            #region Late and early binding
+            //Parent parent = new Parent(3, 4);
 
-            Console.WriteLine(parent.Sum());
+            //Console.WriteLine(parent.Sum());
 
-            Derived d = new Derived(3, 4,5);
-            Console.WriteLine(d.Sum());
+            //Derived d = new Derived(3, 4,5);
+            //Console.WriteLine(d.Sum());
 
-            Console.WriteLine("#############");
-            Parent p1 = new Parent(3, 4);
-            Derived d1 = new Derived(3, 4,5);
-            Console.WriteLine("Base");
-            p1.Show();
-            Console.WriteLine("Child ");
+            //Console.WriteLine("#############");
+            //Parent p1 = new Parent(3, 4);
+            //Derived d1 = new Derived(3, 4,5);
+            //Console.WriteLine("Base");
+            //p1.Show();
+            //Console.WriteLine("Child ");
 
-            d1.Show();
-
-
-            Console.WriteLine("Base -> Child ");
-            Parent p2 = new Derived(3, 4,5);
+            //d1.Show();
 
 
-            p2.Show();
-  
+            //Console.WriteLine("Base -> Child ");
+            //Parent p2 = new Derived(3, 4,5);
+
+
+            //p2.Show(); 
+            #endregion
+
+
+            Rectangel[] rectangels =
+            {
+                new Rectangel(10,20),
+                new Rectangel(20,30)
+            };
+
+           
+            double  sumOfAreas= ShapesEngin.SumOfAreas(rectangels);
+            Console.WriteLine($" Sum Of Areas ={sumOfAreas}");
+
+
         }
     }
 }
