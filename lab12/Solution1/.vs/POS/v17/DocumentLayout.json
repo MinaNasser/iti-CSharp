@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{956C357B-52D9-4E80-9F9B-C4D9281FB884}|Data\\Data.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d11\\lab\\solution1\\data\\providers\\orderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956C357B-52D9-4E80-9F9B-C4D9281FB884}|Data\\Data.csproj|solutionrelative:data\\providers\\orderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8802EE1-64AA-4B71-80D0-5131854DE892}|Manegers\\Manegers.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d11\\lab\\solution1\\manegers\\ordermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8802EE1-64AA-4B71-80D0-5131854DE892}|Manegers\\Manegers.csproj|solutionrelative:manegers\\ordermanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956C357B-52D9-4E80-9F9B-C4D9281FB884}|Data\\Data.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d11\\lab\\solution1\\data\\providers\\invoiceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956C357B-52D9-4E80-9F9B-C4D9281FB884}|Data\\Data.csproj|solutionrelative:data\\providers\\invoiceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781D0BEF-EA88-49C9-B05C-88613AFDEB61}|UI\\UI.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d11\\lab\\solution1\\ui\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781D0BEF-EA88-49C9-B05C-88613AFDEB61}|UI\\UI.csproj|solutionrelative:ui\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781D0BEF-EA88-49C9-B05C-88613AFDEB61}|UI\\UI.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d11\\lab\\solution1\\ui\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781D0BEF-EA88-49C9-B05C-88613AFDEB61}|UI\\UI.csproj|solutionrelative:ui\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8802EE1-64AA-4B71-80D0-5131854DE892}|Manegers\\Manegers.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d11\\lab\\solution1\\manegers\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8802EE1-64AA-4B71-80D0-5131854DE892}|Manegers\\Manegers.csproj|solutionrelative:manegers\\invoicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956C357B-52D9-4E80-9F9B-C4D9281FB884}|Data\\Data.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d11\\lab\\solution1\\data\\providers\\inventoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956C357B-52D9-4E80-9F9B-C4D9281FB884}|Data\\Data.csproj|solutionrelative:data\\providers\\inventoryprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB3A998C-5FE7-433D-A14A-F0230B2EC79A}|APP\\APP.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d11\\lab\\solution1\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3A998C-5FE7-433D-A14A-F0230B2EC79A}|APP\\APP.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderManger.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\OrderManger.cs",
+              "RelativeDocumentMoniker": "Manegers\\OrderManger.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\OrderManger.cs",
+              "RelativeToolTip": "Manegers\\OrderManger.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwB8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:25:39.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceManager.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\InvoiceManager.cs",
+              "RelativeDocumentMoniker": "Manegers\\InvoiceManager.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\InvoiceManager.cs",
+              "RelativeToolTip": "Manegers\\InvoiceManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:12:32.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoicePrinter.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\InvoicePrinter.cs",
+              "RelativeDocumentMoniker": "UI\\InvoicePrinter.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\InvoicePrinter.cs",
+              "RelativeToolTip": "UI\\InvoicePrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:12:26.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceProvider.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Providers\\InvoiceProvider.cs",
+              "RelativeDocumentMoniker": "Data\\Providers\\InvoiceProvider.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Providers\\InvoiceProvider.cs",
+              "RelativeToolTip": "Data\\Providers\\InvoiceProvider.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwEcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:11:53.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryProvider.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Providers\\InventoryProvider.cs",
+              "RelativeDocumentMoniker": "Data\\Providers\\InventoryProvider.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Providers\\InventoryProvider.cs",
+              "RelativeToolTip": "Data\\Providers\\InventoryProvider.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:35:15.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderProvider.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Providers\\OrderProvider.cs",
+              "RelativeDocumentMoniker": "Data\\Providers\\OrderProvider.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Providers\\OrderProvider.cs",
+              "RelativeToolTip": "Data\\Providers\\OrderProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:32:59.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\UserInterface.cs",
+              "RelativeDocumentMoniker": "UI\\UserInterface.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\UserInterface.cs",
+              "RelativeToolTip": "UI\\UserInterface.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAawBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:22:31.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\APP\\Program.cs",
+              "RelativeDocumentMoniker": "APP\\Program.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\APP\\Program.cs",
+              "RelativeToolTip": "APP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T17:22:05.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

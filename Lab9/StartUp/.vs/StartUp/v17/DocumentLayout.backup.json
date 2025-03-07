@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d09\\lab\\startup\\startup\\managers\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|solutionrelative:startup\\managers\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B868CE-8A54-4C5A-A59A-EB22BFC1FF40}|..\\D09\\Part1\\PartII.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d09\\lab\\d09\\part1\\managers\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d09\\lab\\startup\\startup\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|solutionrelative:startup\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d09\\lab\\startup\\startup\\managers\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|solutionrelative:startup\\managers\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d09\\lab\\startup\\startup\\managers\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|solutionrelative:startup\\managers\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B868CE-8A54-4C5A-A59A-EB22BFC1FF40}|..\\D09\\Part1\\PartII.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d09\\lab\\d09\\part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d09\\lab\\startup\\startup\\utils\\menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FEF4A5-000E-4CDB-BD09-AF9E0D72C46B}|StartUp\\StartUp.csproj|solutionrelative:startup\\utils\\menuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\D09\\Part1\\Managers\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "..\\D09\\Part1\\Managers\\CustomerManager.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\D09\\Part1\\Managers\\CustomerManager.cs",
+              "RelativeToolTip": "..\\D09\\Part1\\Managers\\CustomerManager.cs",
+              "ViewState": "AgIAAAAAAAASAAAAAGAywC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:07:16.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "StartUp\\Models\\BaseModel.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Models\\BaseModel.cs",
+              "RelativeToolTip": "StartUp\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:18:14.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseManager.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Managers\\BaseManager.cs",
+              "RelativeDocumentMoniker": "StartUp\\Managers\\BaseManager.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Managers\\BaseManager.cs",
+              "RelativeToolTip": "StartUp\\Managers\\BaseManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:17:53.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ordermanager.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Managers\\Ordermanager.cs",
+              "RelativeDocumentMoniker": "StartUp\\Managers\\Ordermanager.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Managers\\Ordermanager.cs",
+              "RelativeToolTip": "StartUp\\Managers\\Ordermanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:17:49.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\D09\\Part1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\D09\\Part1\\Program.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\D09\\Part1\\Program.cs",
+              "RelativeToolTip": "..\\D09\\Part1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:09:07.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuHandler.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Utils\\MenuHandler.cs",
+              "RelativeDocumentMoniker": "StartUp\\Utils\\MenuHandler.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Utils\\MenuHandler.cs",
+              "RelativeToolTip": "StartUp\\Utils\\MenuHandler.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:08:09.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Managers\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "StartUp\\Managers\\CustomerManager.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D09\\Lab\\StartUp\\StartUp\\Managers\\CustomerManager.cs",
+              "RelativeToolTip": "StartUp\\Managers\\CustomerManager.cs",
+              "ViewState": "AgIAAB0AAACAWGZmZmYIwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:07:48.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
