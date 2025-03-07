@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D08\\Lab\\Day08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB302E8-61BB-4FD4-88CC-99A5073F60D1}|IsFormattable\\IsFormattable.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d08\\lab\\day08\\isformattable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB302E8-61BB-4FD4-88CC-99A5073F60D1}|IsFormattable\\IsFormattable.csproj|solutionrelative:isformattable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB302E8-61BB-4FD4-88CC-99A5073F60D1}|IsFormattable\\IsFormattable.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d08\\lab\\day08\\isformattable\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB302E8-61BB-4FD4-88CC-99A5073F60D1}|IsFormattable\\IsFormattable.csproj|solutionrelative:isformattable\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB302E8-61BB-4FD4-88CC-99A5073F60D1}|IsFormattable\\IsFormattable.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d08\\lab\\day08\\isformattable\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB302E8-61BB-4FD4-88CC-99A5073F60D1}|IsFormattable\\IsFormattable.csproj|solutionrelative:isformattable\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB302E8-61BB-4FD4-88CC-99A5073F60D1}|IsFormattable\\IsFormattable.csproj|d:\\work\\1-material\\14 - c#\\c# fundamentals\\d08\\lab\\day08\\isformattable\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB302E8-61BB-4FD4-88CC-99A5073F60D1}|IsFormattable\\IsFormattable.csproj|solutionrelative:isformattable\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coordinate.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D08\\Lab\\Day08\\IsFormattable\\Coordinate.cs",
+              "RelativeDocumentMoniker": "IsFormattable\\Coordinate.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D08\\Lab\\Day08\\IsFormattable\\Coordinate.cs",
+              "RelativeToolTip": "IsFormattable\\Coordinate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:48:25.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D08\\Lab\\Day08\\IsFormattable\\Utils.cs",
+              "RelativeDocumentMoniker": "IsFormattable\\Utils.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D08\\Lab\\Day08\\IsFormattable\\Utils.cs",
+              "RelativeToolTip": "IsFormattable\\Utils.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAlwHIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:30:22.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D08\\Lab\\Day08\\IsFormattable\\IPrintable.cs",
+              "RelativeDocumentMoniker": "IsFormattable\\IPrintable.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D08\\Lab\\Day08\\IsFormattable\\IPrintable.cs",
+              "RelativeToolTip": "IsFormattable\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:25:40.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D08\\Lab\\Day08\\IsFormattable\\Program.cs",
+              "RelativeDocumentMoniker": "IsFormattable\\Program.cs",
+              "ToolTip": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D08\\Lab\\Day08\\IsFormattable\\Program.cs",
+              "RelativeToolTip": "IsFormattable\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T12:08:45.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

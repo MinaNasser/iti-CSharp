@@ -1,0 +1,449 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\APP\\APP.csproj": {}
+  },
+  "projects": {
+    "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\APP\\APP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\APP\\APP.csproj",
+        "projectName": "APP",
+        "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\APP\\APP.csproj",
+        "packagesPath": "C:\\Users\\minan\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\APP\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\UI.csproj": {
+                "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\minan\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\Models.csproj": {
+                "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\Models.csproj"
+              },
+              "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Utils\\Utils.csproj": {
+                "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Utils\\Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\Manegers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\Manegers.csproj",
+        "projectName": "Manegers",
+        "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\Manegers.csproj",
+        "packagesPath": "C:\\Users\\minan\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Data.csproj": {
+                "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Data.csproj"
+              },
+              "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\Models.csproj": {
+                "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\minan\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\UI.csproj",
+        "projectName": "UI",
+        "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\UI.csproj",
+        "packagesPath": "C:\\Users\\minan\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Data.csproj": {
+                "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Data\\Data.csproj"
+              },
+              "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\Manegers.csproj": {
+                "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Manegers\\Manegers.csproj"
+              },
+              "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\Models.csproj": {
+                "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Models\\Models.csproj"
+              },
+              "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Utils\\Utils.csproj": {
+                "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Utils\\Utils.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Utils\\Utils.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Utils\\Utils.csproj",
+        "projectName": "Utils",
+        "projectPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Utils\\Utils.csproj",
+        "packagesPath": "C:\\Users\\minan\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\D11\\lab\\Solution1\\Utils\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\minan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
