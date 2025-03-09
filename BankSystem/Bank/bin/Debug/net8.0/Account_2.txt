@@ -1,0 +1,26 @@
+2025-02-08 20:00:51: Account Number: 2
+Account Type: Business
+Initial Balance: $6,000.00
+
+
+=====================
+
+2025-02-11 13:44:24: Account Number: 2
+Account Type: Savings
+Initial Balance: $5,000.00
+
+
+=====================
+
+2025-02-11 13:44:45: Deposited: $1,000.00, New Balance: $6,000.00
+
+=====================
+
+2025-02-11 13:45:47: Withdrawn: $2,000.00, New Balance: $4,000.00
+
+=====================
+
+2025-02-11 13:45:47: Transferred $2,000.00 from Account 2 to Account 1
+
+=====================
+

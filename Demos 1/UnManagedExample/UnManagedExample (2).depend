@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1691996181 source:d:\iti\courses\c#\days\day1\demos\unmanagedexample\main.cpp
+	<iostream>
+	"TraineeRepo.h"
+
+1691996024 d:\iti\courses\c#\days\day1\demos\unmanagedexample\traineerepo.h
+	"Trainee.h"
+
+1691995741 d:\iti\courses\c#\days\day1\demos\unmanagedexample\trainee.h
+

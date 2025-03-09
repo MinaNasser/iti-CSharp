@@ -1,0 +1,5 @@
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Bridge\obj\Debug\net6.0\ITI.OOPs.Bridge.csproj.AssemblyReference.cache
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Bridge\obj\Debug\net6.0\ITI.OOPs.Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Bridge\obj\Debug\net6.0\ITI.OOPs.Bridge.AssemblyInfoInputs.cache
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Bridge\obj\Debug\net6.0\ITI.OOPs.Bridge.AssemblyInfo.cs
+D:\ITI\Courses\C#\Days\Day1\Demos\ITI.OOPs.Models\ITI.OOPs.Bridge\obj\Debug\net6.0\ITI.OOPs.Bridge.csproj.CoreCompileInputs.cache

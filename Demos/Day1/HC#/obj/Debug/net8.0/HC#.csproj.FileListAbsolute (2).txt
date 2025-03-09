@@ -1,0 +1,11 @@
+D:\work\1-material\14 - C#\Demos\Day1\HC#\bin\Debug\net8.0\HC#.deps.json
+D:\work\1-material\14 - C#\Demos\Day1\HC#\bin\Debug\net8.0\HC#.dll
+D:\work\1-material\14 - C#\Demos\Day1\HC#\bin\Debug\net8.0\HC#.pdb
+D:\work\1-material\14 - C#\Demos\Day1\HC#\obj\Debug\net8.0\HC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\1-material\14 - C#\Demos\Day1\HC#\obj\Debug\net8.0\HC#.AssemblyInfoInputs.cache
+D:\work\1-material\14 - C#\Demos\Day1\HC#\obj\Debug\net8.0\HC#.AssemblyInfo.cs
+D:\work\1-material\14 - C#\Demos\Day1\HC#\obj\Debug\net8.0\HC#.csproj.CoreCompileInputs.cache
+D:\work\1-material\14 - C#\Demos\Day1\HC#\obj\Debug\net8.0\HC#.dll
+D:\work\1-material\14 - C#\Demos\Day1\HC#\obj\Debug\net8.0\refint\HC#.dll
+D:\work\1-material\14 - C#\Demos\Day1\HC#\obj\Debug\net8.0\HC#.pdb
+D:\work\1-material\14 - C#\Demos\Day1\HC#\obj\Debug\net8.0\ref\HC#.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jvBEhHb/jD8=",
+  "success": true,
+  "projectFilePath": "D:\\work\\1-material\\14 - C#\\C# Fundamentals\\C#\\lab6\\lab6\\lab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minan\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\minan\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
+    "C:\\Users\\minan\\.nuget\\packages\\serilog.sinks.seq\\9.0.0\\serilog.sinks.seq.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

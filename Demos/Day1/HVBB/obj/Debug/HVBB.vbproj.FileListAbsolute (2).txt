@@ -1,0 +1,10 @@
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\bin\Debug\HVBB.dll
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\bin\Debug\HVBB.pdb
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\bin\Debug\HVBB.xml
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\obj\Debug\HVBB.vbproj.AssemblyReference.cache
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\obj\Debug\HVBB.Resources.resources
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\obj\Debug\HVBB.vbproj.GenerateResource.cache
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\obj\Debug\HVBB.vbproj.CoreCompileInputs.cache
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\obj\Debug\HVBB.dll
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\obj\Debug\HVBB.xml
+D:\work\1-material\14 - C#\Demos\Day1\HVBB\obj\Debug\HVBB.pdb

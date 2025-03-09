@@ -1,0 +1,157 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "HC#/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/HC#.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HC#.dll": {}
+        }
+      },
+      "hellowolrd/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/hellowolrd.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/hellowolrd.dll": {}
+        }
+      },
+      "HVBB/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/HVBB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HVBB.dll": {}
+        }
+      },
+      "Value/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Value.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Value.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HC#/1.0.0": {
+      "type": "project",
+      "path": "../HC#/HC#.csproj",
+      "msbuildProject": "../HC#/HC#.csproj"
+    },
+    "hellowolrd/1.0.0": {
+      "type": "project",
+      "path": "../hellowolrd/hellowolrd.csproj",
+      "msbuildProject": "../hellowolrd/hellowolrd.csproj"
+    },
+    "HVBB/1.0.0": {
+      "type": "project",
+      "path": "../HVBB/HVBB.vbproj",
+      "msbuildProject": "../HVBB/HVBB.vbproj"
+    },
+    "Value/1.0.0": {
+      "type": "project",
+      "path": "../Value/Value.csproj",
+      "msbuildProject": "../Value/Value.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "HC# >= 1.0.0",
+      "HVBB >= 1.0.0",
+      "Value >= 1.0.0",
+      "hellowolrd >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\minan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\minan\\.nuget\\packages\\",
+      "outputPath": "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\ConsoleApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\minan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\HC#\\HC#.csproj": {
+              "projectPath": "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\HC#\\HC#.csproj"
+            },
+            "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\hellowolrd\\hellowolrd.csproj": {
+              "projectPath": "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\hellowolrd\\hellowolrd.csproj"
+            },
+            "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\HVBB\\HVBB.vbproj": {
+              "projectPath": "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\HVBB\\HVBB.vbproj"
+            },
+            "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\Value\\Value.csproj": {
+              "projectPath": "D:\\work\\1-material\\14 - C#\\Demos\\Day1\\Value\\Value.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

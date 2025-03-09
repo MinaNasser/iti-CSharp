@@ -1,0 +1,49 @@
+2025-02-08 20:00:30: Account Number: 1
+Account Type: Savings
+Initial Balance: $65,656.00
+
+
+=====================
+
+2025-02-08 20:01:27: Deposited: $500.00, New Balance: $66,156.00
+
+=====================
+
+2025-02-08 20:01:54: Withdrawn: $6,156.00, New Balance: $60,000.00
+
+=====================
+
+2025-02-08 20:07:58: Account Number: 1
+Account Type: Savings
+Initial Balance: $56,464.00
+
+
+=====================
+
+2025-02-08 20:08:14: Deposited: $546,565.00, New Balance: $603,029.00
+
+=====================
+
+2025-02-08 20:08:25: Deposited: $54,656.00, New Balance: $657,685.00
+
+=====================
+
+2025-02-11 13:43:41: Account Number: 1
+Account Type: Checking
+Initial Balance: $5,000.00
+
+
+=====================
+
+2025-02-11 13:45:06: Withdrawn: $1,000.00, New Balance: $4,000.00
+
+=====================
+
+2025-02-11 13:45:47: Deposited: $2,000.00, New Balance: $6,000.00
+
+=====================
+
+2025-02-11 13:45:47: Transferred $2,000.00 from Account 2 to Account 1
+
+=====================
+

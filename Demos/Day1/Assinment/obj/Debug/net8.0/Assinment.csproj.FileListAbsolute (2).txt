@@ -1,0 +1,14 @@
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\bin\Debug\net8.0\Assinment.exe
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\bin\Debug\net8.0\Assinment.deps.json
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\bin\Debug\net8.0\Assinment.runtimeconfig.json
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\bin\Debug\net8.0\Assinment.dll
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\bin\Debug\net8.0\Assinment.pdb
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\obj\Debug\net8.0\Assinment.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\obj\Debug\net8.0\Assinment.AssemblyInfoInputs.cache
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\obj\Debug\net8.0\Assinment.AssemblyInfo.cs
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\obj\Debug\net8.0\Assinment.csproj.CoreCompileInputs.cache
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\obj\Debug\net8.0\Assinment.dll
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\obj\Debug\net8.0\refint\Assinment.dll
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\obj\Debug\net8.0\Assinment.pdb
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\obj\Debug\net8.0\Assinment.genruntimeconfig.cache
+D:\work\1-material\14 - C#\Demos\Day1\Assinment\obj\Debug\net8.0\ref\Assinment.dll

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ITI.OOPs.Presentation/1.0.0": {
+        "dependencies": {
+          "ITI.OOPs.Managers": "1.0.0"
+        },
+        "runtime": {
+          "ITI.OOPs.Presentation.dll": {}
+        }
+      },
+      "ITI.OOPs.Managers/1.0.0": {
+        "dependencies": {
+          "ITI.OOPs.Models": "1.0.0"
+        },
+        "runtime": {
+          "ITI.OOPs.Managers.dll": {}
+        }
+      },
+      "ITI.OOPs.Models/1.0.0": {
+        "runtime": {
+          "ITI.OOPs.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ITI.OOPs.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ITI.OOPs.Managers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ITI.OOPs.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
